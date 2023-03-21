@@ -4,7 +4,10 @@ body
     margin: 0px;
     background-color:#D3756B;
     border-radius: 1px;
+    font-family: Aclonica;
+    font-size: 22px;
 }
+
 header
 {
     background-color:yellowgreen;
@@ -35,7 +38,7 @@ h1
 {
     color:#820000 ;
 }
- h2		
+h2		
 {
     color:#13005A;
     padding:20px;
